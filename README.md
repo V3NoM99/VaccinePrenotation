@@ -1,6 +1,6 @@
-# prenotazionevaccini
+# Prenotazione Vaccini
 
-Progetto Ingegneria del software 2020/2021
+Software Engineering Project 2020/2021
 
 
 Consegna progetto:
